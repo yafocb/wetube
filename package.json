@@ -1,0 +1,19 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "clone coding with youtube",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafocb/wetube.git"
+  },
+  "author": "MoonLight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yafocb/wetube/issues"
+  },
+  "homepage": "https://github.com/yafocb/wetube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
