@@ -4,7 +4,7 @@ export const videos = [
         title: "Raw Video",
         description: "Testing Desciption",
         views:45,
-        videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:23235,
             name: "MoonLight",
@@ -16,7 +16,7 @@ export const videos = [
         title: "Raw Video2",
         description: "Testing Desciption",
         views:45,
-        videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:23235,
             name: "MoonLight",
@@ -28,7 +28,7 @@ export const videos = [
         title: "Raw Video3",
         description: "Testing Desciption",
         views:45,
-        videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:23235,
             name: "MoonLight",
@@ -40,7 +40,7 @@ export const videos = [
         title: "Raw Video4",
         description: "Testing Desciption",
         views:45,
-        videoFile: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:23235,
             name: "MoonLight",
