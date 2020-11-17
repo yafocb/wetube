@@ -1,0 +1,36 @@
+.video__player {
+  video {
+    width: 60%;
+    height: 45%;
+  }
+}
+.video__info {
+  margin-top: 20px;
+  a {
+    color: black;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: greenyellow;
+    box-shadow: 3px 2px 1px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    padding: 8px;
+    i {
+      margin-bottom: 30px;
+      margin-left: 5px;
+    }
+  }
+  .video__title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .video__views {
+    display: block;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .video__description {
+    margin-bottom: 20px;
+  }
+}
